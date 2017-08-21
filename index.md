@@ -18,4 +18,4 @@ markdownを使いたい場合、 index.mdを適当に作ってpushすれば変�
 
 ---
 
-(このマークダウンの結果)[https://case-of-t.github.io/create-gh-pages/]
+[このマークダウンの結果](https://case-of-t.github.io/create-gh-pages/)
