@@ -1,5 +1,7 @@
 # create github pages
 
+リポジトリ単位の github pagesの話になります。
+
 ---
 
 リポジトリの Settingsタブ  
@@ -17,5 +19,7 @@ markdownを使いたい場合、 index.mdを適当に作ってpushすれば変�
 レイアウトを変更したい場合は別途ヘルプ等参照(凝ったことしないなら`_layout`ディレクトリつくってそこにhtmlを放り込むぐらいで可能)。
 
 ---
+
+できたページは https://`ユーザー名`.github.io/`リポジトリ名`/
 
 [このマークダウンの結果](https://case-of-t.github.io/create-gh-pages/)
