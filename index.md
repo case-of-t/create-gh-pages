@@ -1,6 +1,7 @@
 # create github pages
 
 ---
+
 リポジトリの Settingsタブ  
 ![image1](imgs/ghpages-1.gif)  
 
@@ -10,3 +11,11 @@ github pagesの設定をNoneから上二つのどちらかに変更する。作�
 docsディレクトリを作ってpushすれば、前述のgithub pagesのdocsディレクトリを選べるようになる。
 ![image3](imgs/ghpages-3.gif)
 
+---
+
+markdownを使いたい場合、 index.mdを適当に作ってpushすれば変換されて表示される。  
+レイアウトを変更したい場合は別途ヘルプ等参照(凝ったことしないなら`_layout`ディレクトリつくってそこにhtmlを放り込むぐらいで可能)。
+
+---
+
+(このマークダウンの結果)[https://case-of-t.github.io/create-gh-pages/]
